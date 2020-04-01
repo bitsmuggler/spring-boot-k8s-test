@@ -1,4 +1,4 @@
-# Spring-Boot App for testing k8s deployment
+# spring-boot app for testing k8s deployment
 
 ## Prerequisites
 
