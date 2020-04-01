@@ -18,3 +18,4 @@
 1. Apply the deployement  (`kubectl apply -f deployment.config.yaml`)
 1. Apply the service (``kubectl apply -f service.config.yaml``)
 1. Expose the service via minikube (``minikube service notes-api``)
+1. Call the test api `/notes`
