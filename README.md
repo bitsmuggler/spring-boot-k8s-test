@@ -9,7 +9,7 @@
 
 1. Build this app (``./mvnw install``)
 1. Build the docker image (``docker build -t techtopics/notesapp .``)
-1  Tag your image (``docker tag techtopics/notesapp:latest registry.me/notesapp:0.0.1``)
+1.  Tag your image (``docker tag techtopics/notesapp:latest registry.me/notesapp:0.0.1``)
 1. Push it to your (local) registry (``docker push registry.me/notesapp:0.0.1``)
 
 
